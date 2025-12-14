@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/release.yml"
+hash = "8552a1c9fe470ac32b197053b8720bc14ec1238e99a19a87aefcfcb59e456e92"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "18b585d0f14984c5548eb9df3d56a5758482615c65db8260ef6038a3c8ee7acc"
 metafile = true
@@ -113,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "02062a6b61e230e7debaf1c03d5e1e7203e427588fceb9f3d6ef8cad8062397e"
+metafile = true
+
+[[files]]
+file = "mods/bucketlib.pw.toml"
+hash = "52143dc5f02eba14c2ca9e5d8a5e1e56c73adbd67c4c323f4481bba326a26e4a"
 metafile = true
 
 [[files]]
@@ -323,6 +332,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "e6d1f36e9e0193fe410d136e0cda8a7f6dbbc809c0644f06a601bddf5b38a395"
+metafile = true
+
+[[files]]
+file = "mods/cryonicconfig.pw.toml"
+hash = "6dafd9732de5f9c11f6e4293d4c600d2564b5879392aa2d046dad8b01c08c483"
 metafile = true
 
 [[files]]
