@@ -295,6 +295,11 @@ hash = "ea8492c63368840617b06168c1eadc1a9b212b429ff8f10ddc9040ef8bdd0024"
 metafile = true
 
 [[files]]
+file = "mods/create-ultimine.pw.toml"
+hash = "e1e7a331f6f40bf4fc4a2610b123454847b5425c05072b3ee1e8078821385d70"
+metafile = true
+
+[[files]]
 file = "mods/create-wizardry.pw.toml"
 hash = "55e67c679e9822614a6e27896561ad7da6e1372a53876fdf497a971794f0eb3a"
 metafile = true
@@ -392,6 +397,16 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "48e2fa3089beed20a23ff2d171259768b2080ab0ff196841a18eb93c38e1c8b2"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "1c383e66311b5edd6d7116ae0544108d60450f58e94853126665d75d85561d68"
 metafile = true
 
 [[files]]
@@ -717,11 +732,6 @@ metafile = true
 [[files]]
 file = "mods/underwater-village.pw.toml"
 hash = "df95b98196589d78a35b73e2bbb150d03dbed9a78807370fbc26d08516fed8f3"
-metafile = true
-
-[[files]]
-file = "mods/veinminer.pw.toml"
-hash = "e3a2b7e4cf982ab5bebe2e6116173aa2aadb313d52c1bb11886772f83a848a9f"
 metafile = true
 
 [[files]]
