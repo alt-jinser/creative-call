@@ -1,0 +1,13 @@
+name = "Creative Call"
+author = "Jinser Kafka"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "441e681ef96d7286e951df1d2c96aff12a7347f6711a3c7ef0b62c798277617a"
+
+[versions]
+forge = "47.4.13"
+minecraft = "1.20.1"
