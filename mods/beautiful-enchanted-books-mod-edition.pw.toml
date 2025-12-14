@@ -1,0 +1,13 @@
+name = "Beautiful Enchanted Books [MOD EDITION]"
+filename = "BEB-Forge-1.20.1-6.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pcqEicMM/versions/53MxOoFH/BEB-Forge-1.20.1-6.0.0.jar"
+hash-format = "sha512"
+hash = "4912af061e28abbabe54aa38025a8748c00b6cf1a0f3ab9dab35f6afec3fd9c3f92e7d0d15228bc35ba9e4fbd4aef0abfe7ef6f97652586382e973080759477a"
+
+[update]
+[update.modrinth]
+mod-id = "pcqEicMM"
+version = "53MxOoFH"

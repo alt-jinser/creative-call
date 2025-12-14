@@ -1,0 +1,13 @@
+name = "Create: New Age"
+filename = "create-new-age-1.1.7b+forge-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FTeXqI9v/versions/SFEQocaa/create-new-age-1.1.7b%2Bforge-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "43f9900ec554fe9c8ef0406b2c99994c27ec06de7c813637b2ec5031b3c3580a5b000a57fea31fe35abb343533e6a5eb83c60d0138f2d936d1f036ce51fe492e"
+
+[update]
+[update.modrinth]
+mod-id = "FTeXqI9v"
+version = "SFEQocaa"

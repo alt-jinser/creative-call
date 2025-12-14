@@ -1,0 +1,13 @@
+name = "Beautiful Potions [MOD EDITION]"
+filename = "BTP-Forge-1.20.1-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H3a6cFKr/versions/asEe8sj3/BTP-Forge-1.20.1-1.0.2.jar"
+hash-format = "sha512"
+hash = "b98fd02d39e7d3eddfd5ee80168306ab6fece08c0a676b0a88cee3fdaf27196d30fc675d8cf63b9be1778a1b4419eb83718b221430c5e7311cbdee0576ba636f"
+
+[update]
+[update.modrinth]
+mod-id = "H3a6cFKr"
+version = "asEe8sj3"

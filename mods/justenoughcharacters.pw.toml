@@ -1,0 +1,13 @@
+name = "JustEnoughCharacters"
+filename = "jecharacters-1.20.1-forge-4.6.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/I7k4B65h/versions/Npr34dDn/jecharacters-1.20.1-forge-4.6.2.jar"
+hash-format = "sha512"
+hash = "2e4982fc5eb20c659dfa64551f7a63ccaa97e513ccdb83eb767f7ec1a6ba2868296db52b2dd8bd9858c20ddce582cee5f23d8f083861aa0cc7b2df46ed4185a4"
+
+[update]
+[update.modrinth]
+mod-id = "I7k4B65h"
+version = "Npr34dDn"

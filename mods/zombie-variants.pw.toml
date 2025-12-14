@@ -1,0 +1,13 @@
+name = "Zombie Variants"
+filename = "zombie_variants-forge-1.0.3-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b9aFBeGb/versions/M2jCbl80/zombie_variants-forge-1.0.3-1.20.1.jar"
+hash-format = "sha512"
+hash = "17e428763d66733ecac68c3640885740206309bf30157f5265135f490bfbcee631dbb364ed15b04b0f6afcdd4ad8c9b05dc9bb62d72fe39e052368d122aab129"
+
+[update]
+[update.modrinth]
+mod-id = "b9aFBeGb"
+version = "M2jCbl80"

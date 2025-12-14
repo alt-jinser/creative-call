@@ -1,0 +1,13 @@
+name = "L_Ender 's Cataclysm Delight"
+filename = "lendersdelight-1.20.1-1.0.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/a48R8AGk/versions/t63yXPaz/lendersdelight-1.20.1-1.0.10.jar"
+hash-format = "sha512"
+hash = "fa77e97ea3246c416b7f801b1b632a8bf56fab63463d05b870ee55e0f9a7cceb19636b163f61557b8be26cc2349205442fd9197781e3e5c98085cc9a23a8390b"
+
+[update]
+[update.modrinth]
+mod-id = "a48R8AGk"
+version = "t63yXPaz"

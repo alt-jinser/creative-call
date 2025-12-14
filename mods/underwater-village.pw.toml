@@ -1,0 +1,13 @@
+name = "Underwater Village"
+filename = "underwater_village-1.0.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b4628Bd1/versions/Ja3g37bT/underwater_village-1.0.2-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "fefcea29a10c45fff61a985b2b3f55a5e957a6376c657eb7d94e9ca491ef4e994142c8c20ca346c8f4d04ea3e65b2f6f9915305beb9ef2b7e61def86290ccb84"
+
+[update]
+[update.modrinth]
+mod-id = "b4628Bd1"
+version = "Ja3g37bT"
