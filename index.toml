@@ -395,6 +395,11 @@ hash = "435b09769226ac731ec59eb04ff7e496d2b5e1af702a09517b10baf3f08e62d9"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "9c94815c028b18cd04c63b604209be515d209dff8f4bc9960867da0b13a0dfe8"
 metafile = true
