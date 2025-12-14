@@ -150,11 +150,6 @@ hash = "eea01c16f108225646d8d7775eed0f07545461ddcd56ec304b3f8473d89bbc18"
 metafile = true
 
 [[files]]
-file = "mods/chisel-reborn.pw.toml"
-hash = "2ec895f34f33ad639dc6e9781c5450e7eeff746ea932d0309c6786f7ccda70e0"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
@@ -612,16 +607,6 @@ metafile = true
 [[files]]
 file = "mods/rar-compat.pw.toml"
 hash = "663af87b8dfbd194e5319202b7b0a48effdfbc1caf9f9a758e7299da66ef4b89"
-metafile = true
-
-[[files]]
-file = "mods/rechiseled-create.pw.toml"
-hash = "8911c9c22f020ad594f6c83442ca069d13ed72b386e22c614ba4f749556c23f0"
-metafile = true
-
-[[files]]
-file = "mods/rechiseled.pw.toml"
-hash = "442f784b7c8e3d3231e407a9af4530c16fff9c301a5f57144fb5d895c754ded9"
 metafile = true
 
 [[files]]
