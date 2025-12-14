@@ -200,18 +200,8 @@ hash = "aa8711ff3f1d590b8c3e4e092927e5a697d585e21c52107ddc559c93ffebdaed"
 metafile = true
 
 [[files]]
-file = "mods/create-design-n-decor.pw.toml"
-hash = "db975ac6f7723fa6230f64ce45b0986774437c4429237f62299e3de71b32b372"
-metafile = true
-
-[[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "65060f66cd19ebffad8ba87a11109877fc7f6965da5e005cb14686d6f6b2cfcc"
-metafile = true
-
-[[files]]
-file = "mods/create-dreams-and-desires.pw.toml"
-hash = "23dc3517bb479f4a7275bedc75ea45362aef0ff1b240d8cd0fde2fd152032cdf"
 metafile = true
 
 [[files]]
@@ -492,11 +482,6 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "6b7b35db4ccf235d771504c313fb2897139c2f8f8b8857d9b00b97b5b9d624d8"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-characters.pw.toml"
-hash = "ca8b6f7cec7bf8ce6ce26eba9000fd7e594f2c60c1e30da969f60c24ec92aa7f"
 metafile = true
 
 [[files]]
