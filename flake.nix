@@ -73,7 +73,7 @@
                   ];
 
                   outputHashMode = "recursive";
-                  outputHash = "";
+                  outputHash = "sha256-rsml/whB8BNTPT3SP62pOBw7nax0+r4dNk0oiiaI9s8=";
                 }
                 ''
                   mkdir -p "$out"
