@@ -63,7 +63,7 @@
                 forgeVersion = pack.versions.forge;
                 version = "${minecraftVersion}-${forgeVersion}";
               in
-              pkgs.runCommandNoCC "forge-${version}"
+              pkgs.runCommand "forge-${version}"
                 {
                   inherit version;
                   nativeBuildInputs = with pkgs; [
