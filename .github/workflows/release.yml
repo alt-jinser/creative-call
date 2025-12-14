@@ -131,11 +131,9 @@ jobs:
 
       - name: Publish release
         run: |
-          chmod -R +r creative-call*
-          gh release create $TAG_NAME $PRERELEASE \
+          gh release create "$TAG_NAME" $PRERELEASE \
             --title "$SUBJECT" \
-            --target $GITHUB_SHA \
-            # creative-call/* \
-            creative-call-server-mods/* \
-            creative-call-client-mods/* \
-            creative-call-server/*
+            --target "$GITHUB_SHA" \
+            creative-call-server-mods/creative-call-server-mods.zip \
+            creative-call-client-mods/creative-call-client-mods.zip \
+            creative-call-server/creative-call-server.zip
