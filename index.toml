@@ -335,11 +335,6 @@ hash = "d29be018d7259da1da619ca2d1329399d2c5002fd6d88d6965cc5680fbdb0e11"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-lights.pw.toml"
-hash = "ea969a2c6d77b5e7c8bd8ab8fe52c0c46de676a9cc517f014965699d90c5ed92"
-metafile = true
-
-[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "b819114773db1e86fa897907d79abf9925f05a6ae3fd10f7a02cca41f3e9a0d2"
 metafile = true
@@ -452,11 +447,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-armors.pw.toml"
 hash = "c05c55c2b16a86f13cd737c6fa98d53404c979afdd497e8bfd669cac34b8d917"
-metafile = true
-
-[[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "2514cf5b79023dea4f80446a03bfef5ddfaa4cc3a463abb49fd8a16c891ac620"
 metafile = true
 
 [[files]]
