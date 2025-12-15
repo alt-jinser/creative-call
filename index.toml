@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
@@ -405,6 +405,16 @@ hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "b3693e7a5647d4e28fc30ad3e85193c668a98a410dc3f425f19561cfea68957f"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "8cf91dcad4590fed49069cdae47b211bdbee7da6e0c175ae802421ec6a961ae1"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "48e2fa3089beed20a23ff2d171259768b2080ab0ff196841a18eb93c38e1c8b2"
 metafile = true
@@ -595,6 +605,11 @@ hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
 metafile = true
 
 [[files]]
+file = "mods/polylib.pw.toml"
+hash = "947d5f3b9213360b68e9b65a8d2d5111939e82e248cf61eb02137f119c6eaeb6"
+metafile = true
+
+[[files]]
 file = "mods/rar-compat.pw.toml"
 hash = "663af87b8dfbd194e5319202b7b0a48effdfbc1caf9f9a758e7299da66ef4b89"
 metafile = true
@@ -627,6 +642,11 @@ metafile = true
 [[files]]
 file = "mods/simpleores.pw.toml"
 hash = "6e835945ddab1f9f25e0563c1e1acad0361d5081cf8b88c06db8e2d671dd32fa"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "3042b51312180a3d24c0890f03e4c43b31b1a19b65de87f0e440d335ee81cafd"
 metafile = true
 
 [[files]]
