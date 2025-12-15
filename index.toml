@@ -380,6 +380,11 @@ hash = "3136d2fa3cd097330976de6517806fb9a306b60a9c2f9f3845d1289cad11b8c4"
 metafile = true
 
 [[files]]
+file = "mods/exposure.pw.toml"
+hash = "ce198cf0e4ac56f35c03b5e721eacbd6c6bc86b6ab318c4c7259082edb625fc2"
+metafile = true
+
+[[files]]
 file = "mods/factory-blocks.pw.toml"
 hash = "81132c550e1fbd5d93252799117e24ebb902c733432f9c764336be560af34a8a"
 metafile = true
