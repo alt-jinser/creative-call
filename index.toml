@@ -258,6 +258,11 @@ hash = "17ec857227480226fa802dd1123999151567087172b3d767dd47b70bea98c2bf"
 metafile = true
 
 [[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "df547fc51e128ea2cb0af3cbc651cab63feefd5e675444262776dd530d63a1e4"
+metafile = true
+
+[[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "5894716f7361f1b4d562e924ec8e1d9d17e54c4d492b209a006e733b8e3b212b"
 metafile = true
