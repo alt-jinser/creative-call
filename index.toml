@@ -573,6 +573,11 @@ hash = "0f514b6ab0ec411342460c8a426b611c677ce953921bcd6bb3dc59458f916049"
 metafile = true
 
 [[files]]
+file = "mods/modern-ui.pw.toml"
+hash = "fb078f45d04576d994b31f76911eedf74aa6b4ca5ed177eedffd0853887cf97f"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "186909f73870979511db893fca2e2a318b311361f168d425ba0e58fc539188ee"
 metafile = true
